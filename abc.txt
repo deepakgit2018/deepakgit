@@ -1,3 +1,6 @@
 This file is for information on this project.
 Content copied from other files.
+<<<<<<< HEAD
 adding 3rd line
+=======
+>>>>>>> 6591aff4c088d603a06bd5c3be6d37c5b26dcac9
