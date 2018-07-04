@@ -1,0 +1,3 @@
+This file is for information on this project.
+Content copied from other files.
+adding 3rd line
